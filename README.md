@@ -2,7 +2,9 @@
 
 A 3D squash game that runs in the browser — one HTML file, no build step.
 
-**Play:** open `index.html` in Chrome or Edge (or use the GitHub Pages link for this repo).
+**Play:** https://jacksonlieberman.me/baseline-squash/ — or open `index.html` in Chrome or Edge.
+
+Every push to `main` redeploys the site through `.github/workflows/pages.yml`.
 
 ## Controls
 
